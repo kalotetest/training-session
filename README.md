@@ -1,0 +1,2 @@
+# training-session
+Training repository
